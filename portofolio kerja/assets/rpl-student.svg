@@ -1,0 +1,16 @@
+<svg width="720" height="820" viewBox="0 0 720 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="820" rx="20" fill="#E9FF72"/>
+  <circle cx="572" cy="130" r="128" fill="#FF6B5E"/>
+  <circle cx="116" cy="698" r="150" fill="#81B5FF"/>
+  <path d="M191 820C201 654 296 565 390 565C484 565 579 654 589 820H191Z" fill="#151A18"/>
+  <path d="M271 600C304 632 474 632 507 600L538 820H240L271 600Z" fill="#242E29"/>
+  <path d="M290 594H490V685C490 740 445 783 390 783C335 783 290 740 290 685V594Z" fill="#A95F48"/>
+  <path d="M269 449C269 329 325 247 390 247C455 247 511 329 511 449V531C511 651 455 694 390 694C325 694 269 651 269 531V449Z" fill="#B96D52"/>
+  <path d="M257 431C246 292 306 184 396 184C477 184 536 271 519 398L476 344C432 357 367 343 318 311L288 435L257 431Z" fill="#151A18"/>
+  <path d="M278 491C251 472 234 500 247 533C257 559 276 567 292 565V500L278 491Z" fill="#B96D52"/><path d="M502 491C529 472 546 500 533 533C523 559 504 567 488 565V500L502 491Z" fill="#B96D52"/>
+  <circle cx="337" cy="483" r="9" fill="#151A18"/><circle cx="443" cy="483" r="9" fill="#151A18"/>
+  <path d="M351 574C374 591 407 591 430 574" stroke="#151A18" stroke-width="8" stroke-linecap="round"/>
+  <path d="M303 459C317 447 340 447 354 459M426 459C440 447 463 447 477 459" stroke="#151A18" stroke-width="8" stroke-linecap="round"/>
+  <rect x="298" y="704" width="184" height="80" rx="10" fill="#E9FF72"/><text x="337" y="750" font-family="monospace" font-size="32" font-weight="bold" fill="#151A18">RPL</text>
+  <text x="38" y="70" font-family="monospace" font-size="16" fill="#151A18">01 / STUDENT ILLUSTRATION</text>
+</svg>
